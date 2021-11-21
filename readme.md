@@ -1,0 +1,1 @@
+weather info across multiple cities
